@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+}
+
+h1 {
+   text-transform: uppercase;
+   font-size: 3rem;
+}
+
+.poster1 {
+    font-family: "libre baskerville";
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+}
+
+.poster1-img1 {
+    border: 5px solid white;
+    width: 100%;
+}
+
+.poster2 {
+    margin-left: 25%;
+    width: 50%;
+    background-color: white;
+    border: 5px solid white;
+}
+
+.poster2-img1 {
+    width: 100%;
+}
+
+.poster2-img2 {
+    width: 100%;
+}
+
+#img1 {
+    font-family: "roboto flex", serif;
+    text-align: center;
+    font-size: large;
+    
+}
+
+#img2 {
+    font-family: "barrio", serif;
+    text-align: center;
+    font-size: large;
+}
+
